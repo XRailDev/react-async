@@ -1,0 +1,33 @@
+{
+    "data": {
+        "list": [
+            {
+                "company": "CODACT",
+                "firstName": "Monroe",
+                "id": 1,
+                "lastName": "Rojas",
+                "email": "monroe.rojas@codact.biz",
+                "picture": "http://i.pravatar.cc/50?img=1"
+            },
+            {
+                "company": "VIASIA",
+                "firstName": "Reynolds",
+                "id": 2,
+                "lastName": "Hardy",
+                "email": "reynolds.hardy@viasia.name",
+                "picture": "http://i.pravatar.cc/50?img=2"
+            },
+            {
+                "company": "VIASIA",
+                "firstName": "Smith",
+                "id": 3,
+                "lastName": "John",
+                "email": "reynolds.hardy@viasia.name",
+                "picture": "http://i.pravatar.cc/50?img=3"
+            }
+        ],
+        "more": false
+    },
+    "errors": [],
+    "notice": []
+}
